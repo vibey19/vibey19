@@ -2,7 +2,7 @@
 
 I'm the maestro behind the screen, turning coffee into code and chasing bugs like they owe me money. Here's a glimpse into my binary-fueled existence:
 
-## About Me 👾
+## About Me 👾🧥
 🚀 I'm not just your typical web developer; I'm a code conjurer ( I think it sounds cool! ) . When I'm not in front of the screen, you'll probably find me lost in the fascinating world of tech podcasts.
 
 ✨ Away from code, you'll catch me in a poetic trance, weaving words into verses. 📚 I'm also hooked on crime and thriller books, where each page unfolds like a suspenseful script. 🔍
