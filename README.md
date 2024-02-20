@@ -10,7 +10,7 @@ I'm the maestro behind the screen, turning coffee into code and chasing bugs lik
 ## Skill Set 🛠️💻
 
 ### Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=light)](https://skillicons.dev)
 
 ### Backend Technologies
 [![My Skills](https://skillicons.dev/icons?i=nodejs,django,express&theme=light)](https://skillicons.dev)
@@ -19,13 +19,13 @@ I'm the maestro behind the screen, turning coffee into code and chasing bugs lik
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,ts,php,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php,r&theme=light)](https://skillicons.dev)
 
 ### Design and Prototyping Tools
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 ### Other Technologies
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,jquery,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,jquery,arduino,appwrite&theme=light)](https://skillicons.dev)
 
 ## Current Focus 🏇🎯
 At present, I'm dedicated to a mission:
