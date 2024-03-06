@@ -1,4 +1,4 @@
-## Hola, fellow code wranglers! 🤙🏻🤠
+## Hola!!
 
 I'm the maestro behind the screen, turning coffee into code and chasing bugs like they owe me money. Here's a glimpse into my binary-fueled existence:
 
