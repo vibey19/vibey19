@@ -1,11 +1,16 @@
 ## Hola!!
 
-I'm the maestro behind the screen, turning coffee into code and chasing bugs like they owe me money. Here's a glimpse into my binary-fueled existence:
+I’m a AI/ML Developer / Web developer with a focus on writing clean, efficient, and maintainable code. I enjoy solving complex problems, breaking them down into simple solutions, and building projects that actually make an impact.
 
-## About Me 👾🧥
-🚀 I'm not just your typical web developer; I'm a code conjurer ( I think it sounds cool! ) . When I'm not in front of the screen, you'll probably find me lost in the fascinating world of tech podcasts.
+💻 Core focus: AI/ML Algorithms and Web development with attention to detail and usability.
 
-✨ Away from code, you'll catch me in a poetic trance, weaving words into verses. 📚 I'm also hooked on crime and thriller books, where each page unfolds like a suspenseful script. 🔍
+🎧 Lifelong learner: I keep up with the latest in tech through podcasts and articles.
+
+✍️ Creative outlet: Poetry helps me balance logic with creativity.
+
+📚 Beyond code: A fan of crime and thriller novels — I love chasing patterns and unexpected twists.
+
+Here on GitHub, you’ll find a mix of projects, experiments, and contributions that reflect my journey as a developer.
 
 ## Skill Set 🛠️💻
 
