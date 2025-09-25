@@ -41,4 +41,4 @@ At present, I'm dedicated to a mission:
 
 ## Let's Connect 🔊🧠
 Let's make beautiful code together! If my projects caught your eye or you have some coding wisdom to share, drop me a virtual scroll.
-📧Email : studiousmail.19@gmail.com
+📧Email : jdadhaniya6@gmail.com
