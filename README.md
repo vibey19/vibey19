@@ -32,13 +32,6 @@ Here on GitHub, you’ll find a mix of projects, experiments, and contributions 
 ### Other Technologies
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,jquery,arduino,appwrite&theme=light)](https://skillicons.dev)
 
-## Current Focus 🏇🎯
-At present, I'm dedicated to a mission:
-
-🚀 Crafting innovative web solutions with MERN Stack.
-🎨 Enhancing user experiences through a nuanced application of UI/UX principles.
-🌐 Exploring diverse coding languages to broaden and refine my technical skill set.
-
 ## Let's Connect 🔊🧠
 Let's make beautiful code together! If my projects caught your eye or you have some coding wisdom to share, drop me a virtual scroll.
 📧Email : jdadhaniya6@gmail.com
