@@ -12,6 +12,7 @@
 - 🎓 **Studying:** MSc Data Science at Tampere University (Computing Science & Electrical Engineering, GPA 4.5/5)
 - 🧑‍🏫 **Teaching:** TA on Data-Intensive Programming (COMP.CS.320) and Deep Learning (DATA.ML.200)
 - 🤖 **How I got here:** full-stack first, ML second — which is why my projects tend to end up deployed instead of stopping at a notebook
+- 🔬 **What I care about:** evaluation. Most of my time goes on whether a number still holds up once you push on it
 - 🎯 **Looking for:** entry-level AI/ML engineering work in Finland
 - 🗣️ **Languages:** English (C1), Hindi (C2), Finnish (A1, studying)
 - ⚡ **Fun fact:** I write poetry and love crime thrillers, so right now I'm writing a murder mystery in verse
